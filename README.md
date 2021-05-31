@@ -2,7 +2,7 @@
 This is a repository of codes from Code_In_Place_2021. Currently, it only contains my final project but I plan to gradually add more codes that I wrote during the course
 
 The objective of the project is to graphically represent the gender ratios in 500 different cities spread across the country.
-The document used the following definition of gender ratio:
+The document uses the following definition of gender ratio:
 "Gender ratio is defined as the number of women per 1000 men."
 
 The output of the program is an image which is constructed using the simpleimage library. To use the library, the simpleimage.py file should be downloaded along with the code.

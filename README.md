@@ -10,5 +10,7 @@ The data for positional coordinates, and gender ratio is available in the cities
 
 Interpretation of output:
 City indicated by red color in the image: There are less than 900 women per 1000 men in the city.
+
 City indicated by blue color in the image: There are between 900-1000 women per 1000 men in the city.
+
 City indicated by red color in the image: There are more than 1000 women per 1000 men in the city.
